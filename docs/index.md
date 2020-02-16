@@ -15,4 +15,4 @@ https://guides.github.com/features/pages/
 https://markdown-guide.readthedocs.io/en/latest/basics.html
 
 #### "Think different" commercial is embedded below
-<iframe src="//player.bilibili.com/player.html?aid=34506399&cid=60450244&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:100%;height:100%;"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=34506399&cid=60450244&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="854" height="480" > </iframe>
