@@ -15,3 +15,5 @@ Page for this repo https://xiaopinghong.github.io/repo_example/
 https://github.com/Aiden-CHEN-SUSTech/BOOK-MAN  
 #### Gravity-N1:  
 https://github.com/Gravity-N1/ISSMR
+#### Galaxy-Motion
+https://github.com/Galaxy-Motion/RobotHusky
