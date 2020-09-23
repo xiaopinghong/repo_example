@@ -12,7 +12,7 @@ Page for this repo https://xiaopinghong.github.io/repo_example/
 ------
 ### Here are the team repos from SUSTech SDM242 2020F
 #### Group 1  
-missing
+https://github.com/SDIM-Group1
 #### Group 2 
 missing
 #### Group 3
