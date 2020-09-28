@@ -14,7 +14,7 @@ Page for this repo https://xiaopinghong.github.io/repo_example/
 #### Group 1  
 https://github.com/SDIM-Group1
 #### Group 2 
-missing
+https://github.com/SDIM-Group2
 #### Group 3
 https://github.com/SDIM-Group3
 #### Group 4 KEEP-CLEAN
