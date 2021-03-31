@@ -9,6 +9,11 @@ Make sure to grant your teammates permissions to collabrate on this repo.
 Page for this repo https://xiaopinghong.github.io/repo_example/  
 
 #### Some brief tutorial for GitHub uses, please check above page.
+### Here are the team repos from SUSTech SDM5002 2021S
+#### Gardener
+https://github.com/SUSTech-Gardener
+#### Ceasefire
+https://github.com/Movable-Fire-Alarm-System
 
 ------
 ### Here are the team repos from SUSTech SDM5002 2020S
