@@ -16,7 +16,7 @@ https://github.com/SUSTech-Gardener
 #### Ceasefire
 https://github.com/Movable-Fire-Alarm-System
 #### healthMonitor
-https://github.com/iPwnXX/healthMonitor
+https://github.com/IntelligentSensingRobotsTeam2/healthMonitor
 
 ------
 ### Here are the team repos from SUSTech SDM5002 2020S
