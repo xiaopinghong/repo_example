@@ -15,6 +15,8 @@ Page for this repo https://xiaopinghong.github.io/repo_example/
 https://github.com/SUSTech-Gardener
 #### Ceasefire
 https://github.com/Movable-Fire-Alarm-System
+#### healthMonitor
+https://github.com/iPwnXX/healthMonitor
 
 ------
 ### Here are the team repos from SUSTech SDM5002 2020S
