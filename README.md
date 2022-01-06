@@ -30,6 +30,19 @@ https://github.com/Galaxy-Motion/RobotHusky
 Demo videos are at page https://xiaopinghong.github.io/repo_example/  
 
 ------
+### Here are the team repos from SUSTech SDM242 2021F
+#### Group 1  
+https://github.com/james226688/SDIM-2021-Fall-Semester-Group1-Project
+#### Group 2 
+https://github.com/SDM242Group2/Cafe-Garbage-Sorting-Robot
+#### Group 3
+https://github.com/PhilosopheAM/21_Fall_project_gabbishSorting
+#### Group 4
+https://github.com/RX1018/242G4
+#### Group 5
+https://github.com/2forFive
+
+------
 ### Here are the team repos from SUSTech SDM242 2020F
 #### Group 1  
 https://github.com/SDIM-Group1
