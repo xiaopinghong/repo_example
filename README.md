@@ -18,6 +18,8 @@ https://github.com/Movable-Fire-Alarm-System
 #### healthMonitor
 https://github.com/IntelligentSensingRobotsTeam2/healthMonitor
 
+Demo videos are at page https://mp.weixin.qq.com/s/oAfIpreJ3IbgMY9C3mUBhA
+
 ------
 ### Here are the team repos from SUSTech SDM5002 2020S
 #### BOOKMAN:  
@@ -41,6 +43,8 @@ https://github.com/PhilosopheAM/21_Fall_project_gabbishSorting
 https://github.com/RX1018/242G4
 #### Group 5
 https://github.com/2forFive
+
+Demo videos are at page https://mp.weixin.qq.com/s/mVdo5tqbDTr50BsNqt4bZQ
 
 ------
 ### Here are the team repos from SUSTech SDM242 2020F
