@@ -1,5 +1,7 @@
 # repo_example
 
+This is related to the teaching part of ISEE lab. https://isee.technology/teaching/
+
 This is an example of GitHub repository  
 #### Use a repository to host anything related to your project.
 Codes, art works, team pictures, working prototypes, videos, anything related to your project can be added.  
