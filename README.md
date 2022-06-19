@@ -13,10 +13,15 @@ Page for this repo https://xiaopinghong.github.io/repo_example/
 #### Some brief tutorial for GitHub uses, please check above page.
 ------
 ### Here are the team repos from SUSTech SDM5002 2022S
+#### Outfast (Group 1)
+https://github.com/Shu886/Turtlebot3_SLAM
 #### Asculus (Group 2)
 https://github.com/JoeyWu-tech/SDM5002
 #### Group 3
 https://github.com/SDIM-Fisheye/Livox_Fisheye_Fusion
+#### Vision
+https://github.com/FrankJIE09/SDIM5002FourthGroup
+
 
 Demo videos are at page xxx
 
