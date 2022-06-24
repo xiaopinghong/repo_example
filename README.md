@@ -23,7 +23,7 @@ https://github.com/SDIM-Fisheye/Livox_Fisheye_Fusion
 https://github.com/FrankJIE09/SDIM5002FourthGroup
 
 
-Demo videos are at page xxx
+Demo videos are at https://mp.weixin.qq.com/s/1x37Wvzjl6E7fOnCUxRsuw
 
 ------
 ### Here are the team repos from SUSTech SDM5002 2021S
